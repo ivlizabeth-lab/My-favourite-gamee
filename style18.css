@@ -1,7 +1,20 @@
 body {
-	background: beige;
 	width: 100%;
-}
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arial;
+	color: white;
+	min-height: 100vh;
+	background:linear-gradient(rgba(0, 0, 0, 0.6)),  url(photo_2022-06-07_09-13-43.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+
+}	
+
 
 
 
